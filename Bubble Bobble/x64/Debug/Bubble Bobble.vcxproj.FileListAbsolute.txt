@@ -1,0 +1,4 @@
+C:\Users\user\OneDrive\바탕 화면\프로그래밍랩\Bubble Bobble\x64\Debug\Bubble Bobble.exe
+D:\프로그래밍랩\Bubble Bobble\x64\Debug\Bubble Bobble.exe
+C:\Visual Studio\프로그래밍 랩\Bubble Bobble\x64\Debug\Bubble Bobble.exe
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\x64\Debug\Bubble Bobble.exe

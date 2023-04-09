@@ -1,0 +1,10 @@
+﻿  Bubble Bobble.c
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(14,34): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(146,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(839,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(838,14): warning C4101: 'r3' :참조되지 않은 지역 변수입니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(905,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(984,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(1016,15): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\Bubble Bobble.c(1028,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bubble Bobble.vcxproj -> D:\Hansung\2-1\프로그래밍랩\Bubble Bobble\x64\Debug\Bubble Bobble.exe
